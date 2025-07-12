@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="style.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="controls">
+        <input type="color" name="color" id="colorPicker" value="#000000" />
+        <button id="clearGrid">Clear</button>
+      </div>
+      <div>
+        <select name="grid-size" id="gridSelect">
+          <option value="256">16x16</option>
+          <option value="1024">32x32</option>
+          <option value="64">8x8</option>
+        </select>
+        <select id="handleSelect">
+          <option value="click">click</option>
+          <option value="mouseover">mouseover</option>
+          <option value="mousemove">mousemove</option>
+        </select>
+      </div>
+      <div id="grid"></div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
