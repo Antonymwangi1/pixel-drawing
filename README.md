@@ -1,4 +1,5 @@
 # 🖌️ Pixel Drawing Grid
+<img width="1366" height="650" alt="Screenshot_20250712_210020" src="https://github.com/user-attachments/assets/2401bcdd-00c1-456c-9fdb-dbbaa939fa07" />
 
 An interactive pixel art app built with vanilla JavaScript. Users can:
 
