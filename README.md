@@ -167,7 +167,7 @@ select {
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/pixel-grid-app.git
+https://github.com/Antonymwangi1/pixel-drawing.git
 ```
 
 2. Open `index.html` in your browser
@@ -176,7 +176,7 @@ git clone https://github.com/your-username/pixel-grid-app.git
 
 ## 🌟 Credits
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by Antony Mwangi
 
 ---
 
